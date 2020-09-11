@@ -1,0 +1,9 @@
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\bin\Debug\Banking Machine.exe.config
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\bin\Debug\Banking Machine.exe
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\bin\Debug\Banking Machine.pdb
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\obj\Debug\Banking Machine.csprojAssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\obj\Debug\Banking_Machine.BankMachineGUI.resources
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\obj\Debug\Banking_Machine.Properties.Resources.resources
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\obj\Debug\Banking Machine.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\obj\Debug\Banking Machine.exe
+C:\Users\steve\OneDrive\Documents\BVC\SODV2101\Banking Machine\Banking Machine\obj\Debug\Banking Machine.pdb
